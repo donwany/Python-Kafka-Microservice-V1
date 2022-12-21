@@ -1,2 +1,2 @@
 GMAIL_ADDRESS = "theodondre@gmail.com"
-GMAIL_PASSWORD = "vlymgqpgiiavfsbx"
+GMAIL_PASSWORD = "vlymgqpgiiavxbfs"
